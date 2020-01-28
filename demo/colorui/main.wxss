@@ -2134,6 +2134,8 @@ button.icon.lg {
 	min-height: 80rpx;
 	line-height: 40rpx;
 	text-align: left;
+	/*聊天界面信息内容换行*/
+	word-break: break-all;
 }
 
 .cu-chat .cu-item>.main .content:not([class*="bg-"]) {
